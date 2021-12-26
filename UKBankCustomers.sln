@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "UKBankCustomers", "UKBankCustomers\UKBankCustomers.rptproj", "{4DEE1214-73A6-4F5D-B369-2AAB95E4C143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEE1214-73A6-4F5D-B369-2AAB95E4C143}.Debug|Default.ActiveCfg = Debug
+		{4DEE1214-73A6-4F5D-B369-2AAB95E4C143}.Debug|Default.Build.0 = Debug
+		{4DEE1214-73A6-4F5D-B369-2AAB95E4C143}.Debug|Default.Deploy.0 = Debug
+		{4DEE1214-73A6-4F5D-B369-2AAB95E4C143}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{4DEE1214-73A6-4F5D-B369-2AAB95E4C143}.DebugLocal|Default.Build.0 = DebugLocal
+		{4DEE1214-73A6-4F5D-B369-2AAB95E4C143}.Release|Default.ActiveCfg = Release
+		{4DEE1214-73A6-4F5D-B369-2AAB95E4C143}.Release|Default.Build.0 = Release
+		{4DEE1214-73A6-4F5D-B369-2AAB95E4C143}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88433451-27F7-4BE3-874C-772180AE7D2C}
+	EndGlobalSection
+EndGlobal
